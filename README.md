@@ -1,1 +1,1 @@
-# JTFitCoaching
+# JTFit
